@@ -1,0 +1,59 @@
+body {
+	background-image: url("asset/pagebackground.jpg");
+	font-family: "Times New Roman", Georgia, Serif;
+}
+
+p {
+	text-indent: 1em;
+	padding: 0px 100px 10px 200px;
+	margin-top: 0.5em;
+	margin-bottom:0.5em;
+	text-align: left;
+	
+}
+p:first-letter {
+	font-style: italic, bold;
+	line-height: 1em;
+}
+
+pre{
+	color:blue;
+	font-style: oblique;
+}
+
+h1, h2 , h3, h4, h5, h6 {
+	font-variant: small-caps;
+	font-weight: bold;
+	text-align: center;
+}
+.center{
+	text-align: left;
+	font-variant: small-caps;
+	font-weight: bold;
+	color:gray;
+}
+.bbox{
+	color:red;
+	text-align:1;
+}
+.toc{
+	margin-bottom: : 20;
+}
+h1 {
+	font-size: 48px;
+	font-style: italic;
+}
+h2 {
+	font-size: 36px;
+}
+table{
+	font-family: Georgia;
+	color: rgba();
+}
+img {
+	max-width: 300px;
+	height: 400px;
+	filter: grayscale(100%);
+	border-radius: 10px;
+	
+}
