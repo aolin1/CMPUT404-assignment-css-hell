@@ -29,15 +29,13 @@ Change in Part I
 =================
 1, background page. dowload from http://antiqueimages.blogspot.ca/2012/09/free-digital-background-paper.html
 
-2, paragraph format
+2, paragraph format and margin
 
 3, pre color
 
-4, All header
+4, replace header format
 
-5, table format and color
+5, table's format and color
 
 6, image size and color
-
-7, some of the paragraph margin
 
