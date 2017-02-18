@@ -1,0 +1,161 @@
+
+html,body {
+	margin 0;
+	height: 100%;
+	font-family: 'Roboto Slab', serif;
+}
+
+header {
+	position:relative;
+	display: inline-block;
+	list-style-type: none;
+    background: #036DA0; 
+	background-image: url("../img/computer cartoon.jpg");
+	background-repeat: no-repeat;
+	background-position: right;
+}
+
+body {
+	background-color: black;
+	min-height: 100%;
+	background-repeat: no-repeat;
+	display: flex;
+	flex-direction: column;
+
+}
+.profile{
+	height: 200px;
+	width: 200px;
+}
+#logotext{
+	margin-left:300px;
+	color:white;
+	font-size: 72px;
+	margin-bottom:0;
+}
+
+nav{
+    text-align:center;
+	width: 100%;
+    background: linear-gradient(black, grey);
+
+
+}
+
+nav ul {
+	display:inline-flex;
+	list-style-type: none;
+
+	
+	justify-content: center;
+
+}
+footer {
+	text-align: center;
+	position: relative;
+	bottom: 0;
+	width: 100%;
+}
+.studio{
+	height: 200px;
+	width: 25	0px;
+}
+
+li a{
+    font-size: 20px;
+	text-decoration:none;
+	color: white;
+	text-align: center;
+	padding-left:50px;
+	padding-right: 50px;
+	padding-bottom: 10px;
+	text-decoration: none;
+}
+
+.container{
+	background-color: white;
+	position: relative;
+	
+
+}
+.articles{
+
+	position: relative;
+	margin-left: 20px;
+	margin-top:10px;
+
+}
+.section {
+
+	overflow: auto;
+	display: inline-block;
+	vertical-align: middle;
+	height: 100%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+p.sectiontext{
+	padding: 0px 30px 20px 0px;
+	margin-right: 25%;
+}
+
+#histimage{
+	float:right;
+	margin-right: 25%;	
+}
+
+#attdimage{
+	float: left;
+	width:  150px;
+	margin-right: 20px;
+}
+
+/* SIDEBAR*/
+
+#sidebar{
+	position: absolute;
+	width: 20%;
+	top: 10px;
+	right: 10px;
+	height: 90%;
+	float: right;
+	background-color: white;
+	
+	text-align: center;
+	
+	min-width: 250px
+}
+
+#sidehead{
+	font-size:20px;
+	font-style: italic;
+	line-height:20%;
+	margin-botton:0;
+}
+
+#sidehead2{
+	font-size:36px;
+	margin-top: 0;
+	margin-bottom: 10px;
+	padding: 0;
+	line-height:10%;
+	
+}
+
+h4 {
+	font-size: 24px;
+	color: teal;
+	margin-bottom: 0;
+}
+
+p.sidetext{
+	margin: 0px 16px 100px 15px;
+	font-size: 14px;
+}
+.wood{
+	background-image: url("../img/wood2.jpg");
+	min-height: 25px;
+}
+
+
