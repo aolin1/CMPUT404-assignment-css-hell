@@ -21,4 +21,17 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Collaboration
+=================
+Vinson Lai
+
+Change in Part I
+=================
+1, background page. dowload from http://antiqueimages.blogspot.ca/2012/09/free-digital-background-paper.html
+2, paragraph format
+3, pre color
+4, All header
+5, table format and color
+6, image size and color
+7, some of the paragraph margin
 
